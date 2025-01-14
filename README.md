@@ -1,4 +1,4 @@
-# 📷 **Human Activity Detection**  
+# 📷 **Human Activity Detection :**  
 Detect and classify human activities using images and machine learning models! 🎯  
 
 ---
